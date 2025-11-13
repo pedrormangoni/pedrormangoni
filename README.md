@@ -3,18 +3,17 @@
 Desenvolvedor em evolução constante, focado em **Back-end** e **Sistemas Web**.  
 Atualmente cursando **Análise e Desenvolvimento de Sistemas** na Universidade de Passo Fundo e construindo projetos reais para aprender, errar rápido e melhorar ainda mais.
 
----
-
 # Sobre Mim  
 Sou apaixonado por tecnologia e desenvolvimento. Aqui você encontra meus projetos Full-Stack, APIs e experimentos que fazem parte da minha evolução como desenvolvedor.  
-Fique à vontade para explorar 👀
+Fique à vontade para explorar.
+# GitHub Stats  
+![](https://github-readme-stats.vercel.app/api?username=pedrormangoni&theme=monokai&hide_border=true&include_all_commits=true&count_private=true)  
+![](https://nirzak-streak-stats.vercel.app/?user=pedrormangoni&theme=monokai&hide_border=true)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrormangoni&theme=monokai&hide_border=true&layout=compact&count_private=true)
 
 ---
 
-## Socials  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/)  
-
----
+[![](https://visitcount.itsvg.in/api?id=pedrormangoni&icon=5&color=2)](https://visitcount.itsvg.in)
 
 # Tech Stack  
 
@@ -24,7 +23,7 @@ Fique à vontade para explorar 👀
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
+---
 ### **Front-end**
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -63,17 +62,10 @@ Atualmente focado em:
 
 ---
 
-# GitHub Stats  
-![](https://github-readme-stats.vercel.app/api?username=pedrormangoni&theme=monokai&hide_border=true&include_all_commits=true&count_private=true)  
-![](https://nirzak-streak-stats.vercel.app/?user=pedrormangoni&theme=monokai&hide_border=true)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrormangoni&theme=monokai&hide_border=true&layout=compact&count_private=true)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=pedrormangoni&icon=5&color=2)](https://visitcount.itsvg.in)
-
----
 
 ## Vamos trocar ideias?  
 Se quiser falar sobre código, lógica, performance, arquitetura ou só trocar networking, me chama!
+## Socials  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/)  
+
 
