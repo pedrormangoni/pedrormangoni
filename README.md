@@ -2,17 +2,13 @@
 
 Desenvolvedor em evolução constante, focado em **Back-end** e **Sistemas Web**.  
 Atualmente cursando **Análise e Desenvolvimento de Sistemas** na Universidade de Passo Fundo e construindo projetos reais para aprender, errar rápido e melhorar ainda mais.
-
-# Sobre Mim  
-Sou apaixonado por tecnologia e desenvolvimento. Aqui você encontra meus projetos Full-Stack, APIs e experimentos que fazem parte da minha evolução como desenvolvedor.  
+Aqui você encontra meus projetos Full-Stack, APIs e experimentos que fazem parte da minha evolução como desenvolvedor.  
 Fique à vontade para explorar.
+
 # GitHub Stats  
 ![](https://github-readme-stats.vercel.app/api?username=pedrormangoni&theme=monokai&hide_border=true&include_all_commits=true&count_private=true)  
 ![](https://nirzak-streak-stats.vercel.app/?user=pedrormangoni&theme=monokai&hide_border=true)  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrormangoni&theme=monokai&hide_border=true&layout=compact&count_private=true)
-
----
-
 [![](https://visitcount.itsvg.in/api?id=pedrormangoni&icon=5&color=2)](https://visitcount.itsvg.in)
 
 # Tech Stack  
@@ -44,24 +40,17 @@ Fique à vontade para explorar.
 - G-code, CNC e engenharia aplicada  
 - Arquiteturas limpas e APIs robustas  
 
----
-
 # Sobre meus estudos  
 Atualmente focado em:  
 - **Back-end profissional**  
 - **Desenvolvimento de APIs**  
 - Práticas avançadas em arquitetura de software  
 
----
-
 # Projetos em andamento  
 🔹 **Sistema Pix** — NextJs, Python e SQLite  
 🔹 **Carrinho inteligente** — NextJs  
 
 > Em breve, mais repositórios bem documentados e organizados!
-
----
-
 
 ## Vamos trocar ideias?  
 Se quiser falar sobre código, lógica, performance, arquitetura ou só trocar networking, me chama!
