@@ -1,11 +1,11 @@
-# 👋 Olá! Eu sou o Pedro Mangoni
+# Olá! Eu sou o Pedro 
 
-🎯 **Desenvolvedor em evolução constante**, focado em **Back-end**, **Sistemas Web** e **projetos de alta performance**.  
-Atualmente cursando **Análise e Desenvolvimento de Sistemas** e construindo projetos reais para aprender, errar rápido e melhorar ainda mais.
+Desenvolvedor em evolução constante, focado em Back-end e  Sistemas Web. 
+Atualmente cursando Análise e Desenvolvimento de Sistemas na Universidade de Passo Fundo e construindo projetos reais para aprender, errar rápido e melhorar ainda mais.
 
 ---
 
-## 🚀 Tecnologias que estou dominando
+## Tecnologias que estou dominando
 
 **Back-end & APIs**
 - PHP • Laravel  
@@ -14,11 +14,10 @@ Atualmente cursando **Análise e Desenvolvimento de Sistemas** e construindo pro
 
 **Front-end**
 - HTML • CSS • JavaScript   
-- React (iniciando)
+- NextJs (iniciando)
 
 **Mobile**
-- Android nativo com **Kotlin** e **Jetpack Compose**  
-- Navegação (NavController), StateFlow, ViewModel, Room
+- Flutter
 
 **Banco de Dados**
 - MySQL • PostgreSQL • SQLite  
@@ -32,23 +31,22 @@ Atualmente cursando **Análise e Desenvolvimento de Sistemas** e construindo pro
 
 ---
 
-## 📚 Sobre meus estudos
+##  Sobre meus estudos
 No momento estou focado em:
-- **Back-end profissional** (roadmap completo)  
-- **Projeto real:** Sistema de controle de estoque em Laravel  
-- **Projeto Android:** App com Compose + Room  
-- **Sistema Inteligente de Filas para resort** (UML + Astah)
+- **Back-end profissional**
+- **Desenvolvimento de APIs**
 
 ---
 
-## 💡 Projetos em destaque
-🔹 *Sistema Pix*: API + Front-end  
+##  Projetos em andamento
+🔹 *Sistema Pix*: NextJs, Python e SQLite.
+🔹 *Carrinho inteligente*: NextJs.
 
 > Em breve, mais repositórios bem documentados e organizados vão aparecer aqui. 👀
 
 ---
 
-## 📈 Meu foco
+##  Meu foco
 - Produtividade extrema  
 - Aprendizado contínuo  
 - Desenvolvimento de sistemas reais  
@@ -56,9 +54,8 @@ No momento estou focado em:
 
 ---
 
-## 🤝 Vamos trocar ideias?
+##  Vamos trocar ideias?
 Se quiser discutir código, lógica, performance, arquitetura ou apenas trocar networking, pode chamar.
 
 ---
 
-✨ *"A evolução é diária. O progresso é inevitável quando existe consistência."*
