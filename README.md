@@ -1,5 +1,5 @@
-# About Me:
-# Olá! Eu sou o Pedro! <br><br>Desenvolvedor em evolução constante, focado em **Back-end** e **Sistemas Web**.  <br><br>Atualmente cursando **Análise e Desenvolvimento de Sistemas** na Universidade de Passo Fundo e construindo projetos reais para aprender, errar rápido e melhorar ainda mais.<br><br>Aqui você encontra meus projetos Full-Stack, APIs e experimentos que fazem parte da minha evolução como desenvolvedor. <br> <br>Fique à vontade para explorar.<br>
+Olá! Eu sou o Pedro!
+<br><br>Desenvolvedor em evolução constante, focado em **Back-end** e **Sistemas Web**.  <br><br>Atualmente cursando **Análise e Desenvolvimento de Sistemas** na Universidade de Passo Fundo e construindo projetos reais para aprender, errar rápido e melhorar ainda mais.<br><br>Aqui você encontra meus projetos Full-Stack, APIs e experimentos que fazem parte da minha evolução como desenvolvedor. <br> <br>Fique à vontade para explorar.<br>
 
 <br>
 
